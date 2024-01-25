@@ -1,0 +1,21 @@
+{{>layouts/header}}
+<table class="table">
+<thead>
+    {{#sign}}
+    <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Email</th>
+        <th scope="col">Password</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>{{id}}</th>
+        <td>{{email}}</td>
+        <td>{{password}}</td>
+    </tr>
+    {{/sign}}
+</tbody>
+</table>
+<a href="/signs">Go to Signs List</a>
+{{>layouts/footer}}

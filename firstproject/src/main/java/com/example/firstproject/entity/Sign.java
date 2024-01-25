@@ -9,21 +9,21 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
 @Entity
 @Getter
-public class Article {
+public class Sign {
     @Id
     @GeneratedValue
     private Long id;
 
-    @Column
-    private String title;
-    @Column
-    private String content;
 
+    @Column
+    private String email;
+
+    @Column
+    private String password;
 
 }

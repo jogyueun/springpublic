@@ -13,7 +13,10 @@ public class ArticleForm {
 
     private String content;
 
-    public Article Entity() {
-        return new Article(null, title, content);
+    private Long id;
+
+    public Article toEntity() {
+        return new Article(id, title, content);
     }
+
 }

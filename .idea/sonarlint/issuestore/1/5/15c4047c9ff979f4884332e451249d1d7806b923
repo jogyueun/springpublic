@@ -1,0 +1,13 @@
+
+u
+java:S1488<"_Immediately return this expression instead of assigning it to the temporary variable "updated".(†¿«¥
+R
+java:S49733"<Strings and Boxed types should be compared using "equals()".(úİ´Ÿ
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğ€ÿúÕ1
+h
+java:S6204S"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+X
+java:S1612R"BReplace this lambda with method reference 'ArticleForm::toEntity'.(š¤–§
+E
+java:S2201Y"/The return value of "orElseThrow" must be used.(¼·”

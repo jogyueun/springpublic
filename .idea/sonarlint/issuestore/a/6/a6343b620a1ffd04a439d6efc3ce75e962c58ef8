@@ -1,12 +1,14 @@
 
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¼ô·Ä×1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8º¬‡Å×1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¼ô·Ä×1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8º¬‡Å×1
 ^
-java:S1854"<Remove this useless assignment to local variable "comments".(ÙÝ¬¶úÿÿÿÿ8¿ô·Ä×1
+java:S1854"<Remove this useless assignment to local variable "comments".(ÙÝ¬¶úÿÿÿÿ8½¬‡Å×1
 O
-java:S1481"-Remove this unused "comments" local variable.(ÙÝ¬¶úÿÿÿÿ8Áô·Ä×1
-]	java:S125"<This block of commented-out lines of code should be removed.(îê™Ãÿÿÿÿÿ8Âô·Ä×1
+java:S1481"-Remove this unused "comments" local variable.(ÙÝ¬¶úÿÿÿÿ8¾¬‡Å×1
+]	java:S125"<This block of commented-out lines of code should be removed.(îê™Ãÿÿÿÿÿ8¿¬‡Å×1
 t
-java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(£×çåþÿÿÿÿ8Âô·Ä×1
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(£×çåþÿÿÿÿ8¿¬‡Å×1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ç¬‡Å×1

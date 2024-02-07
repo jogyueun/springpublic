@@ -1,6 +1,6 @@
 
 X
 java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
-c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌøºÉ
-h
-java:S1128"RRemove this unused import 'com.example.firstproject.repository.ArticleRepository'.(îİÓï
+j	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌøºÉ8ŒèÍË×1
+o
+java:S1128"RRemove this unused import 'com.example.firstproject.repository.ArticleRepository'.(îİÓï8èÍË×1
